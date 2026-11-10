@@ -1,0 +1,10 @@
+{
+  "menu": { "start": 6.48, "end": 19.52206 },
+  "pond": { "start": 1.02, "end": 15.4439 },
+  "swamp": { "start": 2.86, "end": 18.84107 },
+  "river": { "start": 4.96, "end": 26.76961 },
+  "night": { "start": 2.74, "end": 14.72059 },
+  "ice": { "start": 1.4, "end": 13.38159 },
+  "volcano": { "start": 6.78, "end": 26.76812 },
+  "sky": { "start": 1.08, "end": 25.06259 }
+}
